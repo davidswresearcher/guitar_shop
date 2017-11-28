@@ -1,7 +1,7 @@
 USE yz746;  -- MySQL command
-drop table categories;
-drop table products;
-drop table orders;
+--drop table categories;
+--drop table products;
+--drop table orders;
 -- create the tables
 CREATE TABLE categories (
   categoryID       INT(11)        NOT NULL   AUTO_INCREMENT,
